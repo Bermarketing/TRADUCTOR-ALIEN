@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Traductor Extraterrestre</title>
+    <!-- Agregar enlace a la fuente Poppins -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+
+    <!-- Vincular el archivo CSS externo -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Traductor Extraterrestre</h1>
+<!-- Aplicar estilos a la caja de entrada -->
+        <div class="input-container">
+            <label for="englishWord">Ingresa una frase o palabra en inglés:</label>
+            <input type="text" id="englishWord" onkeypress="handleKeyPress(event)" />
+        </div>
+          <!-- Agregar un elemento div para separar los elementos -->
+            <div class="button-container">
+                <button onclick="translateToAlienLanguage()">Traducir</button>
+            </div>
+        <p id="alienWord" class="translated-text"></p>
+
+        <!-- Insertar el GIF animado -->
+        <img src="imagen/searching.gif" alt="GIF Animado" class="small-image" />
+    </div>
+    
+    <script src="translator.js"></script>
+</body>
+</html>
