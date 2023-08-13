@@ -16,9 +16,11 @@ Este es un proyecto simple de una página web que actúa como un traductor para 
 - Google Fonts: Fuente "Poppins" para el diseño de texto.
 
 ## Capturas de Pantalla
+![Buscador de planetas](https://cdn-icons-png.flaticon.com/512/11260/11260416.png)
 
-![Captura de Pantalla](screenshot.png)
+Licencia de imagen: <a href="https://www.flaticon.es/iconos-animados-gratis/planeta" title="planeta iconos animados">Planeta iconos animados creados por Freepik - Flaticon</a>
 
-o visita la URL: https://bermarketing.github.io/TRADUCTOR-ALIEN/
+
+Visita la URL: https://bermarketing.github.io/TRADUCTOR-ALIEN/
 
 
