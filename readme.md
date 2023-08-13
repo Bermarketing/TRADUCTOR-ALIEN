@@ -19,4 +19,6 @@ Este es un proyecto simple de una página web que actúa como un traductor para 
 
 ![Captura de Pantalla](screenshot.png)
 
+o visita la URL: https://bermarketing.github.io/TRADUCTOR-ALIEN/
+
 
